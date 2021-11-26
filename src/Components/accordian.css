@@ -1,0 +1,37 @@
+.container{
+    margin-top: 80px;
+    width: 700px;
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+}
+.heading{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+i{
+    font-size: 30px;
+}
+body{
+    background: #673AB7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #512DA8, #673AB7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #512DA8, #673AB7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+
+}
+a{
+    text-decoration: none;
+    color: #673AB7;
+}
+a:hover{
+    color: black;
+
+}
+span{
+    color: #673AB7;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    /* margin-top: -20px; */
+}
